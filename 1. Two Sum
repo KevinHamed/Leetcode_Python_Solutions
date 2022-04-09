@@ -1,4 +1,4 @@
-# Solution using brute force method. Time: O(n^2) Space: O(1)
+# Solution using brute force method. Time: O(n^2) Space: O(n)
 # ------------------------------------------------------------
 
 def twoSum(self, nums: List[int], target: int) -> List[int]:
